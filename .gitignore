@@ -1,0 +1,6 @@
+*.pyc
+*.xml
+venv
+*.log
+.idea
+dal/settings
